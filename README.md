@@ -51,3 +51,5 @@ Contributions
 This is an open source project and contributions are always welcome
 
 In order to contribute, refer to the Contribution Rules/Guidelines [here](https://github.com/Bytespeicher/Bytebot/blob/master/CONTRIBUTING.md)
+
+In addition, we need some working for localization. Please look [this](https://github.com/Bytespeicher/twitterstatus/issues/6) for translations rules and guidences.
